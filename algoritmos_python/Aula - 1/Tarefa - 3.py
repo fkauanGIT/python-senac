@@ -1,7 +1,3 @@
-a = input("Digite seu número: ")
-b = input("Digite seu número: ")
-
-a = int(a)
-b = int(b)
-
-print("your: ", a + b)
+a = int(input("Digite seu valor: "))
+b = int(input("Digite seu valor: "))
+print("Sua soma: ", a + b)
